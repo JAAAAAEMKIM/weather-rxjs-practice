@@ -1,3 +1,21 @@
+# Weather RxJS Practice
+
+## Weather
+
+RxJS 연습용 리포지토리
+client의 각 날씨정보 요청하는 request마다 rx를 통해 처리되어 나갈 수 있도록 함.
+Nextjs App Directory 사용.
+
+## Voice Recorder
+
+Rxjs 음성 스트림 처리 구현
+추후 개발 이어갈 예정.
+
+## Playground
+
+개발하다가 의문이 있을 때 테스트 해보기 위한 용도
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
